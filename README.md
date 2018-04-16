@@ -1,3 +1,4 @@
+# CUDA Program to find device properties
 To compile the device.cu file:
 
 nvcc device.cu -o device
@@ -47,3 +48,9 @@ To exit VI, press
 [Esc] button and then: 
 
 :wq
+---
+## License & copyright
+ (c) Sulav Timsina
+ 
+ Licensed under the [MIT License](LICENSE.md)
+
